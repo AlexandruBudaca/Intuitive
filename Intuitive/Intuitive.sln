@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intuitive", "Intuitive.csproj", "{FD350ED2-3D17-4FE1-89C0-6F3843CCB98F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD350ED2-3D17-4FE1-89C0-6F3843CCB98F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD350ED2-3D17-4FE1-89C0-6F3843CCB98F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD350ED2-3D17-4FE1-89C0-6F3843CCB98F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD350ED2-3D17-4FE1-89C0-6F3843CCB98F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C711D4C8-449F-4792-BE36-B7491664A43B}
+	EndGlobalSection
+EndGlobal
